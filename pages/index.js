@@ -1,7 +1,9 @@
+import FlexSection from '../components/FlexSection';
+
 function Home() {
   return (
     <main>
-      <h1>Igor Jeuhan</h1>
+      <FlexSection></FlexSection>
     </main>
   );
 }
